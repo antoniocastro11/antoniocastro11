@@ -5,7 +5,7 @@
   I'm a Software Engineering Student at UFMS, working and studying to be a FullStack developer. 
 
 
-  At the moment, I'm a developer at LEDES (Laboratório de Engenharia de Software - UFMS) and a designer at Mega Júnior.
+  At the moment, I'm a developer at LEDES (Laboratório de Engenharia de Software - UFMS) and at Razzo and a designer at Mega Júnior.
   
   Learning TypeScript, JavaScript, NodeJS, NestJS, Vue, and a lot of other languages and tools!
   Nice to meet you!
