@@ -3,9 +3,9 @@
 <p align="left"> 
   Hello, there! My name is Antonio Castro, but you can call me Castro!
   
-  I'm a Software Engineering Student at UFMS, working and studying to be a Software Engineer. 
+  I'm a Software Engineering Student at UFMS. 
 
-  At the moment, I'm a developer at Razzo and a Project Manager at Mega Júnior.
+  At the moment, I'm a developer and a Project Manager at Mega Júnior.
   
   Learning TypeScript, JavaScript, NodeJS, NestJS, Vue, and a lot of other languages, frameworks and tools!
   Nice to meet you!
